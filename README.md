@@ -1,5 +1,20 @@
 # Task-Master
 Task Master is a powerful task management website that helps you stay organized and focused on your goals. Whether you have personal tasks to accomplish or you're working on a team project, Task Master provides a user-friendly interface to manage your tasks efficiently.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+In this project I used:
+-----------------------
+1)JavaScript(define the server, handle HTTP requests, interact with the database, and perform other server-side operations).
+2)Node.js(run JavaScript code on the server and create a web server).
+3)Express.js(handle HTTP requests, define routes, and manage middleware).
+4)MySQL (popular relational database management system).
+5)JSON Web Tokens (JWT) (used for authentication and authorization).
+6)HTTP Requests and Routing (defined various routes using Express.js to handle different HTTP requests, such as GET and POST).
+7)Session Management (store user-specific data and maintain user state across requests).
+8)Middleware Implementation ( handle tasks such as static file serving, parsing request bodies, cookie parsing, and session management).
+9)Database Interaction (CRUD Operations) (performed Create, Read, Update, and Delete (CRUD) operations on the MySQL database).
+10)Error Handling (error handling to catch and handle errors).
+11)Asynchronous Programming (Promises, async/await) (used promises and async/await syntax to handle asynchronous operations, such as querying the database and waiting for the results before proceeding)
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![1](https://github.com/KhalilFarhat/Task-Master/assets/100374222/80c06a8a-b83c-4dda-a665-597337235668)
 
